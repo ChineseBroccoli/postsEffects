@@ -1,0 +1,14 @@
+{
+  "targets": {
+    "ngrx-effects-26ae0": {
+      "hosting": {
+        "postsEffects": [
+          "ngrx-effects-26ae0"
+        ]
+      }
+    }
+  },
+  "projects": {
+    "default": "ngrx-effects-26ae0"
+  }
+}
